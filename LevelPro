@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <header> </header>
+
+    <main>
+        <ol> 
+               <!--Ordered tag-->
+            <li> Apple </li>   <!--<li></li> these tags are called as list tag-->
+            <ul>               <!--<ul></ul> these tags are called as unordered tag-->
+                <li> color : Red</li>
+                <li> season : Winters</li>
+            </ul>
+            <li> Mango </li>
+            <ul>
+                <li> color : Yellow</li>
+                <li> season : Summer</li>
+            </ul>
+            <li> Orange </li>
+            <ul>
+                <li> color : orange</li>
+                <li> season : At the start of October till before the start of Summer</li>
+            </ul>
+
+        </ol>
+    </main>
+
+    <footer> </footer>
+
+</body>
+</html>
