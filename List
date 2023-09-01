@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <header><u style="color: red"> Me,My Friends and their birthdays </u></header>
+
+    <main>
+        <ul>
+
+            <li> <b>Name:- Harihar Acharya </b> </li>
+            <ul>
+                <li> Date of Birth:- 12 March </li>
+            </ul>
+            <li> <b> Name:- Rishita Khuntia </b> </li>
+            <ul>
+                <li> Date of Birth:- 29 June </li>
+            </ul>
+            <li> <b> Name:- Subhasmita Pahi </b> </li>
+            <ul>
+                <li> Date of Birth:- 20 July </li>
+            </ul>
+            <li> <b> Name:- Adyashree Panda </b> </li>
+            <ul>
+                <li> Date of Birth:- 14 August </li>
+            </ul>
+            <li> <b> Name:- Ankit Kumar Sahoo </b> </li>
+            <ul>
+                <li> Date of Birth:- 5 June </li>
+            </ul>
+
+        </ul>
+    </main>
+
+    <footer><b style="color: chartreuse"> The End!! </b></footer>
+</body>
+</html>
