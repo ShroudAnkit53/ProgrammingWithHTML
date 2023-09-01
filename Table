@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    <header>  </header>
+
+    <main>
+       <table>
+        <thead>
+        <caption>
+            DSA Marks
+        </caption>
+         <tr>
+            <th>
+               Name
+            </th>
+            <th>
+               RollNo.
+            </th>
+            <th>
+                Marks
+            </th>
+         </tr>
+        </thead>
+        
+        <tbody>
+         <tr>
+            <td>
+                Ankit
+            </td>
+            <td>
+                53
+            </td>
+            <td>
+                85
+            </td>
+         </tr>
+
+         <tr>
+            <td>
+                Harihar
+            </td>
+            <td>
+                01
+            </td>
+            <td>
+                95
+            </td>
+         </tr>
+        </tbody>
+       </table>
+    </main>
+
+    <footer>  </footer>
+
+</body>
+</html>
