@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <header>
+            <p> My Portfolio </p>
+    </header>
+
+    <main>
+        <section> Education: ITER SOA (CSIT) | School (Kendriya Vidyalaya) </section>
+        <section> Experiences : Microsoft Intern </section>
+        <article> My story: </article>
+        <a href="https://google.com" target="_main"> Google</a> <!--Here this google will open in next tab-->
+        <aside> This is an ad </aside>
+
+        <div>
+            <p> Namaste </p>
+            <p> Hello world </p>
+        </div>
+        <div>
+            <p> Bye </p>
+            <p> Ciao </p>
+        </div>
+
+    </main>
+
+    <footer>
+        <h3>Contact me at xyz69@gmail.com</h3>
+    </footer>
+</body>
+</html>
