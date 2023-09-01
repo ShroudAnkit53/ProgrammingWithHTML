@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <b> My Favourite game is FIFA Mobile </b>    <!--To write in Bold--> 
+    <br />
+    <i> My Favourite game is FIFA Mobile </i>    <!--To write in Italics-->
+    <br />
+    <u> My Favourite game is FIFA Mobile </u>    <!--To write in Underline--> 
+    <br />
+    <big> My Favourite game is FIFA Mobile </big> <!--To show the text in bigger size-->
+    <br />
+    <small> My Favourite game is FIFA Mobile </small> <!--To show the text in smaller size-->
+    <hr> <!--This tag is called as horizontal tag which separate 2 lines adding a line or scale between them-->
+    <a> PUBG </a>
+    <hr>
+    <a> BGMI </a>
+
+    <hr>
+    <p>H<sub>2</sub>O</p>  <!--This <sub> </sub> tag is known as subscript tag-->
+    <p>20<sup>x</sup>+30</p> <!--This <sup> </sup> tag is known as superscript tag-->
+</body>
+</html>
